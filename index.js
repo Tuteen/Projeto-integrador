@@ -6,7 +6,7 @@ const AdministradorController = require('./app/controllers/administrador_control
 const administradorController = new AdministradorController(); 
 
 const UsuarioController = require('./app/controllers/usuario_controller');
-const usuarioController = new UsuarioController();
+const usuariocontroller = new UsuarioController();
 
 const EventoController = require('./app/controllers/evento_controller');
 const eventoController = new EventoController();
